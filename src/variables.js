@@ -1,0 +1,1 @@
+export const URL = 'http://www.lenvendo.ru/api/js-test-task/';
